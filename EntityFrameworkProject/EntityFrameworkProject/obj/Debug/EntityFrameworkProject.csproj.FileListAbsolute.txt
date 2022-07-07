@@ -1,0 +1,16 @@
+C:\Users\Şeref\source\repos\EntityFrameworkProject\EntityFrameworkProject\bin\Debug\EntityFrameworkProject.exe.config
+C:\Users\Şeref\source\repos\EntityFrameworkProject\EntityFrameworkProject\bin\Debug\EntityFrameworkProject.exe
+C:\Users\Şeref\source\repos\EntityFrameworkProject\EntityFrameworkProject\bin\Debug\EntityFrameworkProject.pdb
+C:\Users\Şeref\source\repos\EntityFrameworkProject\EntityFrameworkProject\bin\Debug\EntityFramework.dll
+C:\Users\Şeref\source\repos\EntityFrameworkProject\EntityFrameworkProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Şeref\source\repos\EntityFrameworkProject\EntityFrameworkProject\bin\Debug\EntityFramework.xml
+C:\Users\Şeref\source\repos\EntityFrameworkProject\EntityFrameworkProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Şeref\source\repos\EntityFrameworkProject\EntityFrameworkProject\obj\Debug\EntityFrameworkProject.csproj.AssemblyReference.cache
+C:\Users\Şeref\source\repos\EntityFrameworkProject\EntityFrameworkProject\obj\Debug\EntityFrameworkProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Şeref\source\repos\EntityFrameworkProject\EntityFrameworkProject\obj\Debug\EntityFrameworkProject.Form1.resources
+C:\Users\Şeref\source\repos\EntityFrameworkProject\EntityFrameworkProject\obj\Debug\EntityFrameworkProject.Properties.Resources.resources
+C:\Users\Şeref\source\repos\EntityFrameworkProject\EntityFrameworkProject\obj\Debug\EntityFrameworkProject.csproj.GenerateResource.cache
+C:\Users\Şeref\source\repos\EntityFrameworkProject\EntityFrameworkProject\obj\Debug\EntityFrameworkProject.csproj.CoreCompileInputs.cache
+C:\Users\Şeref\source\repos\EntityFrameworkProject\EntityFrameworkProject\obj\Debug\EntityFrameworkProject.csproj.CopyComplete
+C:\Users\Şeref\source\repos\EntityFrameworkProject\EntityFrameworkProject\obj\Debug\EntityFrameworkProject.exe
+C:\Users\Şeref\source\repos\EntityFrameworkProject\EntityFrameworkProject\obj\Debug\EntityFrameworkProject.pdb
